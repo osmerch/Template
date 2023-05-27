@@ -29,10 +29,5 @@ namespace Template_4332
             _4332_Khamitova elina= new _4332_Khamitova();
             elina.Show();
         }
-
-        private void Button_Click(object sender, RoutedEventArgs e)
-        {
-
-        }
     }
 }
